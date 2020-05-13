@@ -14,9 +14,12 @@ Project was developed for managing a small library
 ## Features
 - Email based login
 - Multiple users :- [Admin,Staff]
+    - **Admin**
+        - Manage Students
+        - Manage Books
+    - **Staff**
+        - View Books
+        - View Students
 - Actions based on User type
-- Manage Books
-- Manage Students
 - Issue and deposit Books
 - Calculating return date
-- Calculating fine depending on deposit delay
