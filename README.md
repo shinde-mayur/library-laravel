@@ -17,6 +17,7 @@ Project was developed for managing a small library
     - **Admin**
         - Manage Students
         - Manage Books
+        - View report        
     - **Staff**
         - View Books
         - View Students
